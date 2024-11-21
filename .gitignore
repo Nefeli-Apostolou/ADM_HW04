@@ -1,1 +1,2 @@
 *.csv
+!users_signatures.csv
