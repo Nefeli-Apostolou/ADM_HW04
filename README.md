@@ -1,6 +1,8 @@
 # ADM HW04
 This repository contains the fourht ADM homework completed by:
-- **Nefeli Apostolou, 2168240** 
-- **[Name 2]** 
-- **[Name 3]** 
-- **[Name 4]**  
+| Members  | Email | Student ID |
+| ------------- | ------------- | ------------- |
+| Nefeli Apostolou  | -  | 2168240 |
+| Michele Pezza   | pezza.1845897@studenti.uniroma1.it  | 1845897 |
+| -   | -  | - |
+| -   | - | - |
