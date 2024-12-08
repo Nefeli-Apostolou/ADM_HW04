@@ -1,5 +1,5 @@
 # ADM HW04
-This repository contains the fourht ADM homework completed by:
+This repository contains the fourth ADM homework completed by:
 | Members  | Email | Student ID |
 | ------------- | ------------- | ------------- |
 | Nefeli Apostolou  | nefeliapostolou@outlook.com  | 2168240 |
