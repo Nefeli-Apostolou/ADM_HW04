@@ -8,7 +8,7 @@ This repository contains the fourth ADM homework completed by:
 | Miras Tyulyubayev  | itdass69@gmail.com | - |
 
 # main.ipynb
-The link to view the file is [here]().
+The link to view the file is [here](https://github.com/Nefeli-Apostolou/ADM_HW04/blob/main/main.ipynb).
 
 # Bonus_Question_kmeans_clustering_iterations.pdf
 This PDF file contains the visualizations of the *k-means* clustering algorithm over 45 iterations. We opted to save the plots as a PDF to ensure the notebook size remains under the 25 MB limit for GitHub uploads.
